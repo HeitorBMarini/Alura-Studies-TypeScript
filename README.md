@@ -1,5 +1,7 @@
 [![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 # TypeScript Cronometer
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+
 
 This project was created as part of Alura's TypeScript course. It's a simple cronometer built with React, showcasing concepts such as props, state, componentization, and hooks like useState and useEffect.
 
