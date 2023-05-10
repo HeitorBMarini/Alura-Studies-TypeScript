@@ -25,6 +25,4 @@ The project is divided into several components:
 
 This project was created for educational purposes, so pull requests will not be accepted. Feel free to use the code as a reference or to study from it.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
